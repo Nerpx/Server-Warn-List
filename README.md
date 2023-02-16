@@ -11,5 +11,5 @@ A list of servers that you shouldn't join / maybe be cautious of.
 - staff are fat no lifes who false ban.
 
 4. hy-pvp.com
-- its not a very good server if you are going to join join with a vpn.
+- its not a very good server if you are going to join, join with a vpn.
 - maybe skidded plugins? | owner has blackspigot account
