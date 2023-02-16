@@ -13,3 +13,7 @@ A list of servers that you shouldn't join / maybe be cautious of.
 4. hy-pvp.com
 - its not a very good server if you are going to join, join with a vpn.
 - maybe skidded plugins? | owner has blackspigot account
+
+5. Purple Prison (Any iP)
+- probably uses skidded plugins 
+- very p2w legit didn't even want to remove a fake 25 percent store sale of there server.
