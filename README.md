@@ -17,3 +17,6 @@ A list of servers that you shouldn't join / maybe be cautious of.
 5. Purple Prison (Any iP)
 - probably uses skidded plugins 
 - very p2w legit didn't even want to remove a fake 25 percent store sale of there server.
+
+6. LifestealSMP.net
+- Very p2w
